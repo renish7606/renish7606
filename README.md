@@ -28,17 +28,41 @@
 <!--                    ABOUT ME                       -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🙋‍♂️ About Me!
+## 🙋‍♂️ About Me
 
-I'm a **B.Tech student** from **Gujarat, India 🇮🇳** who lives at the intersection of **Artificial Intelligence** and **Full Stack Web Development**. I enjoy training models, building APIs, and shipping real products — not just running notebooks.
+I'm a **final-year B.Tech Computer Engineering student** (AI/ML specialization) from **Gujarat, India 🇮🇳**, building at the intersection of **Machine Learning** and **Full Stack Development**. I don't just train models in notebooks — I ship them: full products with real APIs, real databases, and real users.
 
 > *"Turning data into intelligence — one model at a time."* 🚀
 
-- 🤖 &nbsp;Deep diving into **Machine Learning & Deep Learning**
-- 🌐 &nbsp;Building full-stack apps with **Django & REST APIs**
-- 🌍 &nbsp;Actively contributing to **open-source** projects
-- 📚 &nbsp;Always learning — currently exploring **Neural Networks & Model Optimization**
-- 📍 &nbsp;Based in **Gujarat, India**
+- 🧠 &nbsp;Trained a custom **EfficientNetV2-M** model to **88–93% accuracy** across 350+ food classes
+- 📄 &nbsp;Built an ML-powered contract analysis platform using a classifier trained on the **CUAD dataset**
+- 🔐 &nbsp;Currently researching **prompt injection defense for RAG pipelines** (SecRAG-Gate — targeting academic publication, Nov 2026)
+- 🌐 &nbsp;Building and deploying full-stack apps with **Django REST Framework & React**
+- 📍 &nbsp;Based in Gujarat, India — open to relocation for the right opportunity
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                FEATURED PROJECTS                  -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🚀 Featured Projects
+
+### 📄 [ContractIntel](https://github.com/renish7606/REPO-NAME-HERE)
+AI-powered contract analysis platform. Trained a **TF-IDF + LinearSVC classifier** on the CUAD dataset to categorize 41+ legal clause types, built a two-pass **PII-scrubbing pipeline** with spaCy, and integrated **Gemini 2.5 Flash Lite** for automated clause summarization. Deployed end-to-end.
+
+`Django REST Framework` `React` `PostgreSQL` `scikit-learn` `spaCy` `Gemini API`
+
+🔗 [Live Demo](#) &nbsp;|&nbsp; [Repository](#)
+
+---
+
+### 🥗 [MacroMate](https://github.com/renish7606/REPO-NAME-HERE)
+Nutrition tracking app powered by a **custom-trained EfficientNetV2-M** model (PyTorch) hitting **88–93% accuracy** across 350+ food classes, with a CLIP-based fallback for unseen items. Includes Google OAuth, a full dashboard, and Spoonacular API integration for nutrition data.
+
+`PyTorch` `Django` `React` `PostgreSQL` `Google OAuth` `Spoonacular API`
+
+🔗 [Live Demo](#) &nbsp;|&nbsp; [Repository](#)
 
 ---
 
@@ -52,30 +76,49 @@ I'm a **B.Tech student** from **Gujarat, India 🇮🇳** who lives at the inter
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML & Data**
+**AI / ML & NLP**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 
 **Backend & Web**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-0079FF?style=flat-square&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Databases**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**Cloud & Deployment**
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Mobile / Edge**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Tools**
 
@@ -116,25 +159,11 @@ I'm a **B.Tech student** from **Gujarat, India 🇮🇳** who lives at the inter
 
 | | Focus |
 |---|---|
-| 🤖 | Training & fine-tuning ML models for real-world use cases |
-| 🌐 | Full stack web apps powered by Django & REST APIs |
-| 🌍 | Contributing to open-source AI & web dev projects |
-| 🧠 | Exploring Deep Learning architectures & optimization |
-| 💡 | Practising clean code, solid architecture & best practices |
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--            CONTRIBUTION ACTIVITY                  -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<!-- ## 🐾 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=renish7606&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="95%"/>
-
-</div> -->
+| 🔒 | Researching prompt injection defense for RAG pipelines (SecRAG-Gate) |
+| 🤖 | Fine-tuning ML/DL models for real-world, production use cases |
+| 🌐 | Shipping full-stack apps powered by Django REST Framework & React |
+| 🧠 | Going deeper into LLM application security & retrieval architectures |
+| 💡 | Practicing clean architecture, testing, and production-grade deployment |
 
 ---
 
@@ -144,7 +173,7 @@ I'm a **B.Tech student** from **Gujarat, India 🇮🇳** who lives at the inter
 
 ## 🤝 Let's Connect
 
-I'm open to collaborations, open-source contributions, and interesting conversations. Feel free to reach out!
+I'm actively looking for **AI/ML Engineer** and **Software Engineer** internship/full-time opportunities. Open to collaborations, open-source contributions, and good conversations — feel free to reach out!
 
 <div align="center">
 
