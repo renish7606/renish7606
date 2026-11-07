@@ -2,7 +2,7 @@
 <!--                     BANNER                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-![Hey, I'm Renish Nagapara](./assets/profile-banner.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:0079FF,100:00C6FF&height=210&section=header&text=Hey,%20I'm%20Renish%20Nagapara%20👋&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20%26%20Generative%20AI%20Engineer%20%7C%20PyTorch%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents&descAlignY=58&descSize=19&descColor=d0eaff" />
 
 <div align="center">
 
@@ -119,27 +119,44 @@ Instead of just theoretical prototypes in notebooks, I build and deploy complete
 
 <div align="left">
 
-### 🤖 Generative AI & RAG Stack
+### 🤖 Generative AI & Autonomous Systems
+![RAG](https://img.shields.io/badge/RAG%20Architecture-0079FF?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-24292E?style=flat-square&logo=github&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-4338CA?style=flat-square&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-0D9488?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-6366F1?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0284C7?style=flat-square&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
 ![CLIP](https://img.shields.io/badge/OpenAI%20CLIP-412991?style=flat-square&logo=openai&logoColor=white)
 
-### 🧠 Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🧠 Deep Learning & Neural Architectures
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs%20%28ConvNets%29-0079FF?style=flat-square&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6B6B?style=flat-square&logoColor=white)
+![RNN/LSTM/GRU](https://img.shields.io/badge/RNN%20%2F%20LSTM%20%2F%20GRU-1E40AF?style=flat-square&logoColor=white)
+![EfficientNetV2](https://img.shields.io/badge/EfficientNetV2--M-047857?style=flat-square&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Deep%20Neural%20Networks-4338CA?style=flat-square&logoColor=white)
+
+### 📊 Machine Learning, NLP & Data Science
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Supervised & Unsupervised](https://img.shields.io/badge/Supervised%20%26%20Unsupervised-0891B2?style=flat-square&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-7C3AED?style=flat-square&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-2563EB?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP%20%26%20Tokenization-059669?style=flat-square&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy%20NER-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🌐 Backend & Deployment
+### 🌐 Backend, Databases & Engineering Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django%20%26%20DRF-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -159,15 +176,15 @@ Instead of just theoretical prototypes in notebooks, I build and deploy complete
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=renish7606&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=0079FF&icon_color=00C6FF&text_color=e2e8f0&theme=dark" alt="Renish's GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renish7606&theme=github_dark" alt="GitHub Profile Details" width="48%"/>
 &nbsp;
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renish7606&layout=compact&hide_border=true&bg_color=0b0f19&title_color=0079FF&text_color=e2e8f0&theme=dark" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renish7606&theme=github_dark" alt="Top Languages" width="48%"/>
 
 </div>
 
 <div align="center">
 
-<img width="68%" src="https://streak-stats.demolab.com?user=renish7606&hide_border=true&background=0b0f19&stroke=0079FF&ring=00C6FF&fire=0079FF&currStreakLabel=00C6FF&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=cbd5e1&dates=64748b" alt="GitHub Streak"/>
+<img width="97%" src="https://streak-stats.demolab.com?user=renish7606&hide_border=true&background=0b0f19&stroke=0079FF&ring=00C6FF&fire=0079FF&currStreakLabel=00C6FF&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=cbd5e1&dates=64748b" alt="GitHub Streak"/>
 
 </div>
 
