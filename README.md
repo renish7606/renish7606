@@ -2,7 +2,7 @@
 <!--                     BANNER                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:0079FF,100:00C6FF&height=210&section=header&text=Hey,%20I'm%20Renish%20Nagapara%20👋&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20%26%20Generative%20AI%20Engineer%20%7C%20PyTorch%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents&descAlignY=58&descSize=19&descColor=d0eaff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B0F19,50:0079FF,100:00C6FF&amp;height=210&amp;section=header&amp;text=Hey,%20I'm%20Renish%20Nagapara%20👋&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=AI%20%2F%20ML%20%26%20Generative%20AI%20Engineer%20%7C%20PyTorch%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents&amp;descAlignY=58&amp;descSize=19&amp;descColor=d0eaff" />
 
 <div align="center">
 
