@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+  <defs>
+    <linearGradient id="background" x1="0" x2="1">
+      <stop offset="0" stop-color="#0B0F19"/>
+      <stop offset="0.5" stop-color="#0079FF"/>
+      <stop offset="1" stop-color="#00C6FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="210" fill="url(#background)"/>
+  <text x="600" y="78" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" text-anchor="middle" dominant-baseline="middle">Hey, I'm Renish Nagapara 👋</text>
+  <text x="600" y="132" fill="#d0eaff" font-family="Arial, Helvetica, sans-serif" font-size="21" text-anchor="middle" dominant-baseline="middle">AI / ML &amp; Generative AI Engineer | PyTorch · LLMs · RAG · Agents</text>
+  <path d="M0 180 C180 198 350 166 540 181 S920 204 1200 173 V210 H0Z" fill="#ffffff" fill-opacity=".26"/>
+  <path d="M0 192 C220 169 390 184 590 199 S960 187 1200 180 V210 H0Z" fill="#ffffff" fill-opacity=".16"/>
+</svg>
