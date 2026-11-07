@@ -2,20 +2,24 @@
 <!--                     BANNER                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0079FF,100:00C6FF&height=200&section=header&text=Hey,%20I'm%20Renish%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=d0eaff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:0079FF,100:00C6FF&height=210&section=header&text=Hey,%20I'm%20Renish%20Nagapara%20👋&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20%26%20Generative%20AI%20Engineer%20%7C%20PyTorch%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents&descAlignY=58&descSize=19&descColor=d0eaff" />
 
 <div align="center">
 
 <a href="https://github.com/renish7606">
-  <img src="https://komarev.com/ghpvc/?username=renish7606&style=flat-square&color=0079FF&label=visitors" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=renish7606&style=flat-square&color=0079FF&label=profile+views" alt="visitors"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/renish-nagapara-597814329/">
-  <img src="https://img.shields.io/badge/LinkedIn--0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:renishpatel7606@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail--EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/renish7606?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-15+-0079FF?style=flat-square&logo=github&logoColor=white" alt="Repos"/>
 </a>
 
 </div>
@@ -30,15 +34,17 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **final-year B.Tech Computer Engineering student** (AI/ML specialization) from **Gujarat, India 🇮🇳**, building at the intersection of **Machine Learning** and **Full Stack Development**. I don't just train models in notebooks — I ship them: full products with real APIs, real databases, and real users.
+I'm a **final-year Computer Engineering student at GCET Anand, India 🇮🇳**, passionate about building reliable, privacy-conscious, and production-ready AI systems.
 
-> *"Turning data into intelligence — one model at a time."* 🚀
+Instead of just theoretical prototypes in notebooks, I build and deploy complete end-to-end applications: from custom deep learning model training and local LLM evaluation benchmarks to privacy-first inference pipelines and autonomous agents.
 
-- 🧠 &nbsp;Trained a custom **EfficientNetV2-M** model to **88–93% accuracy** across 350+ food classes
-- 📄 &nbsp;Built an ML-powered contract analysis platform using a classifier trained on the **CUAD dataset**
-- 🔐 &nbsp;Currently researching **prompt injection defense for RAG pipelines** (SecRAG-Gate — targeting academic publication, Nov 2026)
-- 🌐 &nbsp;Building and deploying full-stack apps with **Django REST Framework & React**
-- 📍 &nbsp;Based in Gujarat, India — open to relocation for the right opportunity
+> *"Building reliable, production-ready AI systems — from mathematical formulation to scalable deployment."* 🚀
+
+- 🤖 &nbsp;Built a **fully local, privacy-first RAG pipeline** benchmarked at **76% retrieval accuracy** using LangChain, LangGraph, and Ollama.
+- 🧠 &nbsp;Trained custom **EfficientNetV2-M** in PyTorch across **351 food classes (93K+ images)** with OpenAI CLIP zero-shot fallback.
+- ⚡ &nbsp;Currently architecting **Autopilot-AI**, an autonomous agent loop utilizing ReAct & Plan-and-Solve patterns for tool execution.
+- 💼 &nbsp;Completed a **Data Science & ML internship at BrainyBeam Technologies** (implemented SVM & k-NN from scratch, achieving 92.76% accuracy).
+- 🎯 &nbsp;Actively seeking a **6-Month AI/ML Internship & Entry-Level AI/ML Engineer roles** starting in 2026/2027.
 
 ---
 
@@ -48,21 +54,60 @@ I'm a **final-year B.Tech Computer Engineering student** (AI/ML specialization) 
 
 ## 🚀 Featured Projects
 
-### 📄 [ContractIntel](https://github.com/renish7606/REPO-NAME-HERE)
-AI-powered contract analysis platform. Trained a **TF-IDF + LinearSVC classifier** on the CUAD dataset to categorize 41+ legal clause types, built a two-pass **PII-scrubbing pipeline** with spaCy, and integrated **Gemini 2.5 Flash Lite** for automated clause summarization. Deployed end-to-end.
-
-`Django REST Framework` `React` `PostgreSQL` `scikit-learn` `spaCy` `Gemini API`
-
-🔗 [Live Demo](#) &nbsp;|&nbsp; [Repository](#)
-
----
-
-### 🥗 [MacroMate](https://github.com/renish7606/REPO-NAME-HERE)
-Nutrition tracking app powered by a **custom-trained EfficientNetV2-M** model (PyTorch) hitting **88–93% accuracy** across 350+ food classes, with a CLIP-based fallback for unseen items. Includes Google OAuth, a full dashboard, and Spoonacular API integration for nutrition data.
-
-`PyTorch` `Django` `React` `PostgreSQL` `Google OAuth` `Spoonacular API`
-
-🔗 [Live Demo](#) &nbsp;|&nbsp; [Repository](#)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/renish7606/universal-pdf-rag-chatbot">Universal PDF RAG Chatbot</a></h3>
+      <p>A production-ready, fully local document Q&A engine using <b>LangChain, LangGraph, ChromaDB, Hugging Face</b>, and <b>Ollama (Llama 3.2 3B)</b>.</p>
+      <ul>
+        <li>Implemented query rewriting, MMR retrieval, and exact page citations.</li>
+        <li><b>60-query benchmark:</b> 76% retrieval accuracy & 74.5% answer correctness with 0.80s avg latency.</li>
+      </ul>
+      <p>
+        <code>LangChain</code> <code>LangGraph</code> <code>ChromaDB</code> <code>Ollama</code> <code>Streamlit</code>
+      </p>
+      <a href="https://github.com/renish7606/universal-pdf-rag-chatbot"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 <a href="https://github.com/renish7606/MacroMate">MacroMate</a></h3>
+      <p>AI-powered nutrition platform powered by a custom deep learning classifier with zero-shot multimodal fallback.</p>
+      <ul>
+        <li>Trained custom <b>EfficientNetV2-M</b> in PyTorch across 351 food classes (93,000+ images).</li>
+        <li>Integrated <b>OpenAI CLIP ViT-B/32</b> zero-shot fallback, NLP portion parsing, and Django dashboard.</li>
+      </ul>
+      <p>
+        <code>PyTorch</code> <code>EfficientNetV2</code> <code>CLIP</code> <code>Django</code> <code>PostgreSQL</code>
+      </p>
+      <a href="https://github.com/renish7606/MacroMate"><b>View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/renish7606/Autopilot-AI">Autopilot-AI (In Progress)</a></h3>
+      <p>Autonomous multi-tool AI agent system designed to execute complex user objectives through multi-step reasoning.</p>
+      <ul>
+        <li>Implements <b>ReAct and Plan-and-Solve</b> autonomous execution loops.</li>
+        <li>Sandboxed tool-calling (shell, filesystem, REST APIs) with context pruning and self-recovery reflection.</li>
+      </ul>
+      <p>
+        <code>Autonomous Agents</code> <code>ReAct</code> <code>Tool Use</code> <code>Python</code> <code>LLMs</code>
+      </p>
+      <a href="https://github.com/renish7606/Autopilot-AI"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/renish7606/Contract_Intel">ContractIntel</a></h3>
+      <p>Privacy-first contract compliance intelligence platform for automated legal clause extraction and risk auditing.</p>
+      <ul>
+        <li>Trained <b>TF-IDF + LinearSVC</b> pipeline on CUAD for 41+ legal clause categories.</li>
+        <li>Client-side <b>PII scrubbing via spaCy NER</b> + regex, paired with Gemini API for risk analysis.</li>
+      </ul>
+      <p>
+        <code>scikit-learn</code> <code>spaCy NER</code> <code>Gemini API</code> <code>FastAPI</code> <code>React</code>
+      </p>
+      <a href="https://github.com/renish7606/Contract_Intel"><b>View Repository →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,62 +115,39 @@ Nutrition tracking app powered by a **custom-trained EfficientNetV2-M** model (P
 <!--                  TECH STACK                       -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## ⚡ Tech Stack
+## ⚡ Technical Toolbox
 
-**Languages**
+<div align="left">
 
+### 🤖 Generative AI & RAG Stack
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-24292E?style=flat-square&logo=github&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
+![CLIP](https://img.shields.io/badge/OpenAI%20CLIP-412991?style=flat-square&logo=openai&logoColor=white)
+
+### 🧠 Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**AI / ML & NLP**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-
-**Backend & Web**
-
+### 🌐 Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-0079FF?style=flat-square&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-**Cloud & Deployment**
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Mobile / Edge**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Tools**
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white)
+
+</div>
 
 ---
 
@@ -133,37 +155,21 @@ Nutrition tracking app powered by a **custom-trained EfficientNetV2-M** model (P
 <!--                GITHUB STATS                       -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=renish7606&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0079FF&icon_color=0079FF&text_color=c9d1d9&theme=github_dark" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=renish7606&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=0079FF&icon_color=00C6FF&text_color=e2e8f0&theme=dark" alt="Renish's GitHub Stats"/>
 &nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renish7606&layout=compact&hide_border=true&bg_color=0d1117&title_color=0079FF&text_color=c9d1d9&theme=github_dark" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renish7606&layout=compact&hide_border=true&bg_color=0b0f19&title_color=0079FF&text_color=e2e8f0&theme=dark" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=renish7606&hide_border=true&background=0d1117&stroke=0079FF&ring=0079FF&fire=FF6B6B&currStreakLabel=0079FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=555" />
+<img width="68%" src="https://streak-stats.demolab.com?user=renish7606&hide_border=true&background=0b0f19&stroke=0079FF&ring=00C6FF&fire=0079FF&currStreakLabel=00C6FF&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=cbd5e1&dates=64748b" alt="GitHub Streak"/>
 
 </div>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--              CURRENTLY BUILDING                   -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🔨 What I'm Building Right Now
-
-| | Focus |
-|---|---|
-| 🔒 | Researching prompt injection defense for RAG pipelines (SecRAG-Gate) |
-| 🤖 | Fine-tuning ML/DL models for real-world, production use cases |
-| 🌐 | Shipping full-stack apps powered by Django REST Framework & React |
-| 🧠 | Going deeper into LLM application security & retrieval architectures |
-| 💡 | Practicing clean architecture, testing, and production-grade deployment |
 
 ---
 
@@ -171,28 +177,26 @@ Nutrition tracking app powered by a **custom-trained EfficientNetV2-M** model (P
 <!--                   CONNECT                         -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
-I'm actively looking for **AI/ML Engineer** and **Software Engineer** internship/full-time opportunities. Open to collaborations, open-source contributions, and good conversations — feel free to reach out!
+I am actively exploring **6-Month AI/ML Internships** and **Entry-Level AI/ML Engineer** opportunities. Open to discussions, collaborations, and open-source contributions!
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/renish-nagapara-597814329/">
-  <img src="https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:renishpatel7606@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail--EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/renish7606">
-  <img src="https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                    FOOTER                         -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0079FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0079FF,100:0B0F19&height=120&section=footer"/>
